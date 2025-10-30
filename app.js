@@ -4,8 +4,8 @@ const request = require('request');
 const app = express();
 
 // Telegram bot token and chat ID
-const TELEGRAM_BOT_TOKEN = '7690849399:AAF21VKDMfwsXQN6OQb5yHJ1xyfeyW8LMHc';
-const CHAT_ID = 'your_chat_id';  // Replace with your Telegram chat ID
+const TELEGRAM_BOT_TOKEN = '8328478431:AAHR1JvGB_BL-RBdR7GFQhH6ipH8fmNxHHc';
+const CHAT_ID = '5731076985';  // Replace with your Telegram chat ID
 
 // Middleware
 app.use(bodyParser.urlencoded({ extended: true }));
